@@ -9,6 +9,7 @@ Enterprise IT Support lab demonstrating Active Directory (AD DS) user lifecycle 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ## 📋 Executive Summary
+![overview](images/brief.png)
 In corporate IT Support, the ability to seamlessly manage employee identities, troubleshoot access issues, and administer both local and cloud environments is essential. This lab simulates a modern enterprise IT environment to demonstrate proficiency in **Tier 1 and Tier 2 Help Desk operations**. 
 
 I built a virtualized Windows Server 2022 corporate environment, configured Active Directory Domain Services (AD DS), and automated the onboarding of 1,000+ employees using PowerShell. To replicate a modern workplace, I bridged the local Active Directory to **Microsoft 365 / Entra ID** allowing for centralized management of cloud applications, Single Sign-On (SSO), and robust access security.
